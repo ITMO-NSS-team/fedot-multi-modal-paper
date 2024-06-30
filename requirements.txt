@@ -1,0 +1,2 @@
+fedot==0.7.3.2
+scikit-learn==1.5.0
